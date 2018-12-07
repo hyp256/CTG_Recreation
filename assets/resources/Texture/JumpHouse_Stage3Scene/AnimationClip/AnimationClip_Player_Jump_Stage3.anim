@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "AnimationClip_Player_Jump_Stage3",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "88a0e7e3-6996-40ba-84d1-7cb2b453283b"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "e1e3f0e5-2c14-4571-9394-dcf6df273820"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "7983d3bb-d7be-43c2-a3ed-1e34cfb548fc"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "e1e3f0e5-2c14-4571-9394-dcf6df273820"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "88a0e7e3-6996-40ba-84d1-7cb2b453283b"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

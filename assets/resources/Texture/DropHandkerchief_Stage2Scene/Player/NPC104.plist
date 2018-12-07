@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>NPC104_DOWN01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{84,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,104}</string>
+			</dict>
+			<key>NPC104_DOWN02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,104},{84,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,104}</string>
+			</dict>
+			<key>NPC104_DOWN03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{84,0},{84,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,104}</string>
+			</dict>
+			<key>NPC104_DOWN04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{84,104},{84,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,104}</string>
+			</dict>
+			<key>NPC104_LEFT01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{168,0},{84,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,104}</string>
+			</dict>
+			<key>NPC104_LEFT02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{168,104},{84,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,104}</string>
+			</dict>
+			<key>NPC104_LEFT03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{252,0},{84,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,104}</string>
+			</dict>
+			<key>NPC104_LEFT04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{252,104},{84,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,104}</string>
+			</dict>
+			<key>NPC104_RIGHT01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{336,0},{84,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,104}</string>
+			</dict>
+			<key>NPC104_RIGHT02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{336,104},{84,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,104}</string>
+			</dict>
+			<key>NPC104_RIGHT03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{420,0},{84,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,104}</string>
+			</dict>
+			<key>NPC104_RIGHT04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{420,104},{84,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,104}</string>
+			</dict>
+			<key>NPC104_UP01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{504,0},{84,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,104}</string>
+			</dict>
+			<key>NPC104_UP02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{504,104},{84,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,104}</string>
+			</dict>
+			<key>NPC104_UP03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{588,0},{84,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,104}</string>
+			</dict>
+			<key>NPC104_UP04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{588,104},{84,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,104}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>NPC104.png</string>
+			<key>realTextureFileName</key>
+			<string>NPC104.png</string>
+			<key>size</key>
+			<string>{672,208}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>672</integer>
+			<key>height</key>
+			<integer>208</integer>
+		</dict>
+	</dict>
+</plist>

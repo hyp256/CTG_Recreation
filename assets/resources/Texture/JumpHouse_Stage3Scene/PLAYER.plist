@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>PLAYER01_TWO.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{180,180}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{180,180}</string>
+			</dict>
+			<key>PLAYER02_TWO.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,180},{180,180}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{180,180}</string>
+			</dict>
+			<key>PLAYER03_TWO.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{180,0},{180,180}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{180,180}</string>
+			</dict>
+			<key>PLAYER04_TWO.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{180,180},{180,180}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{180,180}</string>
+			</dict>
+			<key>PLAYER05_TWO.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{360,0},{180,180}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{180,180}</string>
+			</dict>
+			<key>PLAYERJUMP01_TWO.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{360,180},{180,180}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{180,180}</string>
+			</dict>
+			<key>PLAYERJUMP02_TWO.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{540,0},{180,180}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{180,180}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PLAYER.png</string>
+			<key>realTextureFileName</key>
+			<string>PLAYER.png</string>
+			<key>size</key>
+			<string>{720,360}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>720</integer>
+			<key>height</key>
+			<integer>360</integer>
+		</dict>
+	</dict>
+</plist>
