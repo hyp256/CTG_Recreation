@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>NPC007_DOWN01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{80,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,100}</string>
+			</dict>
+			<key>NPC007_DOWN02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,100},{80,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,100}</string>
+			</dict>
+			<key>NPC007_DOWN03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{80,0},{80,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,100}</string>
+			</dict>
+			<key>NPC007_DOWN04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{80,100},{80,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,100}</string>
+			</dict>
+			<key>NPC007_LEFT01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{160,0},{80,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,100}</string>
+			</dict>
+			<key>NPC007_LEFT02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{160,100},{80,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,100}</string>
+			</dict>
+			<key>NPC007_LEFT03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{240,0},{80,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,100}</string>
+			</dict>
+			<key>NPC007_LEFT04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{240,100},{80,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,100}</string>
+			</dict>
+			<key>NPC007_RIGHT01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{320,0},{80,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,100}</string>
+			</dict>
+			<key>NPC007_RIGHT02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{320,100},{80,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,100}</string>
+			</dict>
+			<key>NPC007_RIGHT03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{400,0},{80,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,100}</string>
+			</dict>
+			<key>NPC007_RIGHT04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{400,100},{80,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,100}</string>
+			</dict>
+			<key>NPC007_UP01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{480,0},{80,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,100}</string>
+			</dict>
+			<key>NPC007_UP02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{480,100},{80,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,100}</string>
+			</dict>
+			<key>NPC007_UP03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{560,0},{80,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,100}</string>
+			</dict>
+			<key>NPC007_UP04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{560,100},{80,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,100}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>NPC007.png</string>
+			<key>realTextureFileName</key>
+			<string>NPC007.png</string>
+			<key>size</key>
+			<string>{640,200}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>640</integer>
+			<key>height</key>
+			<integer>200</integer>
+		</dict>
+	</dict>
+</plist>

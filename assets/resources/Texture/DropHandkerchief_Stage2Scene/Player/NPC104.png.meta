@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3a0542e8-152e-4909-9f42-165f9e6b7684",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "NPC104": {
+      "ver": "1.0.3",
+      "uuid": "ec93519d-ccf8-4707-b80f-ec8f80a1a6bd",
+      "rawTextureUuid": "3a0542e8-152e-4909-9f42-165f9e6b7684",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 0.5,
+      "trimX": 5,
+      "trimY": 0,
+      "width": 658,
+      "height": 207,
+      "rawWidth": 672,
+      "rawHeight": 208,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

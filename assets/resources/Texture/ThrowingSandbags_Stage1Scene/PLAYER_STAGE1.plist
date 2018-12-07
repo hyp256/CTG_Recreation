@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>PLAYER_LEFT01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{162,191}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{162,191}</string>
+			</dict>
+			<key>PLAYER_LEFT02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{162,0},{162,191}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{162,191}</string>
+			</dict>
+			<key>PLAYER_LEFT03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{324,0},{162,191}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{162,191}</string>
+			</dict>
+			<key>PLAYER_RIGHT01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{486,0},{162,191}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{162,191}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PLAYER_STAGE1.png</string>
+			<key>realTextureFileName</key>
+			<string>PLAYER_STAGE1.png</string>
+			<key>size</key>
+			<string>{648,191}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>648</integer>
+			<key>height</key>
+			<integer>191</integer>
+		</dict>
+	</dict>
+</plist>
