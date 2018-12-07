@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>frameLv1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{141,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{141,48}</string>
+			</dict>
+			<key>frameLv2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,48},{141,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{141,48}</string>
+			</dict>
+			<key>frameLv3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,96},{141,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{141,48}</string>
+			</dict>
+			<key>tBar.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,144},{141,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{141,48}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>POWERBAR.png</string>
+			<key>realTextureFileName</key>
+			<string>POWERBAR.png</string>
+			<key>size</key>
+			<string>{141,192}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>141</integer>
+			<key>height</key>
+			<integer>192</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "eeaa9598-e9bc-41c9-bfac-b36931e84b0b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "SANDBAG": {
+      "ver": "1.0.3",
+      "uuid": "b16f2444-4365-4ed7-8520-8dcb5183ab1e",
+      "rawTextureUuid": "eeaa9598-e9bc-41c9-bfac-b36931e84b0b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 15,
+      "trimY": 11,
+      "width": 195,
+      "height": 202,
+      "rawWidth": 225,
+      "rawHeight": 225,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

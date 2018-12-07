@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "AnimationClip_Handkerchief",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2695b7f0-63c6-43c5-abe6-0f07fb028605"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "ba84eda2-62ae-47a5-944c-0abd6484884f"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "f7bcb43f-c7b2-44f9-8cb4-7df53542e002"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "ac6da534-d1ec-4c08-8734-5bf6d4599c5f"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "88751303-aa89-433d-ac51-260b66e1a35b"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
